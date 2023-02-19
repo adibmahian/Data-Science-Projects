@@ -1,0 +1,3 @@
+The goal of the analysis is to see if there is a connection with these factors on a employees staying or leaving. Using these factors, I have created a model that predicts if an employee will stay with the company or leave.
+
+The accuracy of my model to predict correctly is: 77.2%
